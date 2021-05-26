@@ -2,7 +2,8 @@
 Automação simples com microcontrolador PIC16F877A
 
 Exemplo de funcionamento (montagem em bancada)
-![Exemplo da montagem em bancada](https://github.com/Davidjordao/Automacao-Residencial-PIC16F877A/blob/main/IMG_20171124_172328324.jpg {width=40px height=400px})
+<img src="https://github.com/Davidjordao/Automacao-Residencial-PIC16F877A/blob/main/IMG_20171124_172328324.jpg" width="48">
+![Exemplo da montagem em bancada](https://github.com/Davidjordao/Automacao-Residencial-PIC16F877A/blob/main/IMG_20171124_172328324.jpg)
 
 Exemplo do dispositivo em funcionamento
 ![Exemplo da montagem em bancada](https://github.com/Davidjordao/Automacao-Residencial-PIC16F877A/blob/main/IMG_20171124_010902234.jpg)
